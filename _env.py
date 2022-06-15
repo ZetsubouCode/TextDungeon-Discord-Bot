@@ -1,0 +1,2 @@
+class ENV:
+    TOKEN = 'xxx'
