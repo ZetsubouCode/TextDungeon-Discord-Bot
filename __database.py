@@ -1,4 +1,5 @@
 import os
+from _env import ENV
 from urllib.parse import quote_plus as urlquote
 from contextlib import contextmanager
 
@@ -8,10 +9,10 @@ from sqlalchemy.orm import sessionmaker, scoped_session
 
 engine = create_engine(
     "mysql://{}:{}@{}/{}".format(
-		os.environ.get("DB_USER"),
-		urlquote(os.environ.get("DB_PASS")),
-		os.environ.get("DB_HOST"),
-		os.environ.get("DB_NAME")
+		ENV.DB_USER,
+		ENV.DB_PASS,
+		ENV.DB_HOST,
+		ENV.DB_NAME
     ),
     pool_size=500,
     max_overflow=500,
