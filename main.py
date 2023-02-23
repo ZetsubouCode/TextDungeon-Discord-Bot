@@ -1,9 +1,10 @@
-import discord
+import nextcord
+from nextcord.ext import commands
 from function.StartGame import StartGame as StartGameFunction
 from function.Command import Command as CommandFunction
-from _env import ENV
+import os
 
-client = discord.Client(intents=discord.Intents.default())
+client = commands.Bot(command_prefix='!',intents=nextcord.Intents.all())
 
 
 @client.event
@@ -25,5 +26,8 @@ async def on_message(message):
   if message.content.startswith('!start'):
     await StartGameFunction.start_game(client, message)
 
+  if message.content.startswith('!try'):
+    await message.channel.send("test")
 
-client.run(ENV.TOKEN)
+
+client.run(os.environ['TOKEN'])
