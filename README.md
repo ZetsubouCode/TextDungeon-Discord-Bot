@@ -13,8 +13,8 @@ Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiark
 # Character
 - Raden Mandala
 - Indrayani
-- Raider
-- Maling
+- Rastra Sewakotma
+- Pandung Cora
 # Enemy
 - Kuyang
 - Sundel Bolong
