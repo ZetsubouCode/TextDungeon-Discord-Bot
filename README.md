@@ -12,12 +12,16 @@ Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiark
 
 # Character
 - Raden Mandala
+
 ![Raden Mandala](asset/character/Raden Mandala.jpg)
 - Indrayani
+
 ![Indrayani](asset/character/Indrayani.jpg)
 - Rastra Sewakotma
+
 ![Rastra Sewakotma](asset/character/Raider.jpg)
 - Pandung Cora
+
 ![Pandung Cora](asset/character/Maling.jpg)
 # Enemy
 - Kuyang
