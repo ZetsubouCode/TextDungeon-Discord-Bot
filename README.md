@@ -13,7 +13,7 @@ Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiark
 # Character
 - Raden Mandala
 
-![Raden Mandala](asset/character/Raden Mandala.jpg)
+![Raden Mandala]("asset/character/Raden Mandala.jpg")
 - Indrayani
 
 ![Indrayani](asset/character/Indrayani.jpg)
