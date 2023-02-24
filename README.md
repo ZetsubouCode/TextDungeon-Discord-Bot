@@ -15,7 +15,7 @@ Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiark
 
 ![Raden Mandala](asset/character/Raden%20Mandala.jpg)
 
-Di Kalimantan, terdapat suatu kerajaan yang masih berdiri bernama Mandala Raya. Kerajaan tersebut dipimpin oleh raja yang tampan dan berwibawa bernama Raden Mandala. Semua orang memuja-muja sosok raja itu, hal ini dikarenakan besarnya jasa sang raja dalam mengurus rakyat yang ada di Kalimantan. Dari memberi pekerjaan, bahan pangan, fasilitas kesehatan, hingga pendidikan pun diberikan oleh kerajaan Mandala Raya. Kehidupan di Kalimantan terlihat dan terasa sangat sejahtera dan bahagia setiap harinya berkat kebesaran hati dari Raden Mandala. Hingga suatu saat, penampakan aneh muncul dilangit kerajaan Mandala. Terlihat oleh sang raja meteoroid dengan cahaya ungu melaju mengarah ke hutan yang dekat dengan pemukiman warga disekitar pusat kerajaan. Karena hari sudah malam, ia berencana untuk memeriksanya bersama dengan pasukkan keesokan harinya. 
+Di Kalimantan, terdapat suatu kerajaan yang masih berdiri bernama Mandala Raya. Kerajaan tersebut dipimpin oleh raja yang tampan dan berwibawa bernama Raden Mandala. Semua orang memuja-muja sosok raja itu, hal ini dikarenakan besarnya jasa sang raja dalam mengurus rakyat yang ada di Kalimantan. Dari memberi pekerjaan, bahan pangan, fasilitas kesehatan, hingga pendidikan pun diberikan oleh kerajaan Mandala Raya. Kehidupan di Kalimantan terlihat dan terasa sangat sejahtera dan bahagia setiap harinya berkat kebesaran hati dari Raden Mandala. Hingga suatu saat, penampakan aneh muncul dilangit kerajaan Mandala. Terlihat oleh sang raja meteoroid dengan cahaya ungu melaju mengarah ke hutan yang dekat dengan pemukiman warga disekitar pusat kerajaan. Karena hari sudah malam, ia berencana untuk memeriksanya bersama dengan pasukkan keesokan harinya.
 
 - Indrayani
 
@@ -26,13 +26,15 @@ Di ujung gunung Jaya wijaya, hidup seorang dukun sakti bernama Indrayani. Dia ad
 
 ![Rastra Sewakotma](asset/character/Raider.jpg)
 
-Rastra Sewakotma adalah panglima perang tertinggi yang memimpin pasukan khusus.
+Rastra Sewakotma adalah panglima perang tertinggi yang memimpin pasukan khusus pemerintah, bernama NAYAKALARA. Rahwana diutus oleh pemerintah untuk mengawal ilmuwan BMKG dalam rangka mengawasi kawasan dungeon yang ada di kalimantan. Sesampainya disana, mereka pun tercengang dikarenakan banyak hantu berkeliaran. Tuyul, Wewe Gombel, Buto Ijo, Kuyang, Kunthilanak, semua setan yang mereka tahu ada didepan mata mereka.
+Terlalu takut dengan keadaan tersebut, salah satu pasukan berteriak histeris ketakutan dan menyebabkan para setan tersebut memperhatikan dan terpaku pada kehadiran mereka. Setan-setan tersebut berlari kearah para pakar dan pasukan khusus, dengan tampang menakutkan dan rasa haus darah yang terpancar dari tatapan mereka. 
+Para pasukan khusus pun melepas tembakan ke mahkluk-mahkluk mengerikan tersebut, sambil memberi arahan untuk para pakar agar kabur. Namun senjata api mereka tidak berdaya dihadapan setan-setan itu, walaupun berhasil mengenai mereka, namun dampak yang diberikan seakan tidak membuat mereka kesakitan. Di saat yang bersamaan, para pakar pun sudah berhasil melarikan diri menuju markas besar.
 
 - Pandung Cora
 
 ![Pandung Cora](asset/character/Maling.jpg)
 
-Pencuri handal yang selalu membuat ulah, Padung Cora. Padung telah berhasil mendapatkan berbagai macam artefak unik dari berbagai macam daerah. Artefak-artefak 
+Pencuri handal yang selalu membuat ulah, Padung Cora. Padung telah berhasil mendapatkan berbagai macam artefak unik dari berbagai macam daerah. Artefak-artefak dari harta kekayaan kerajaan zaman dulu yang telah runtuh, seperti kalung uncal dari kerajaan Kutai, kitab sutasuma dari kerajaan Majapahit, serta Lonceng Cakra Donya dari kerajaan Samudra Pasai, yang mana seharusnya menjadi kekayaan nasional. Meskipun begitu, hasrat serakah yang dimiliki padung membuat dia selalu ingin mencari lagi dan lagi. Disaat Padung sedang memilah target yang akan ia curi, tiba-tiba dia mendapatkan kabar dari TV kalau diadakannya sayembara untuk menaklukkan dungeon di Kalimantan. Padung pun merinding dan tersenyum lebar, menatap dengan tajam ke arah layar TV, dia telah memutuskan target selanjutnya.
 
 # Enemy
 - Kuyang
