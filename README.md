@@ -15,7 +15,13 @@ Eventually, the situation became too dire to ignore, and the government finally 
 
 ![Raden Mandala](asset/character/Raden%20Mandala.jpg)
 
-Di Kalimantan, terdapat suatu kerajaan yang masih berdiri bernama Mandala Raya. Kerajaan tersebut dipimpin oleh raja yang tampan dan berwibawa bernama Raden Mandala. Semua orang memuja-muja sosok raja itu, hal ini dikarenakan besarnya jasa sang raja dalam mengurus rakyat yang ada di Kalimantan. Dari memberi pekerjaan, bahan pangan, fasilitas kesehatan, hingga pendidikan pun diberikan oleh kerajaan Mandala Raya. Kehidupan di Kalimantan terlihat dan terasa sangat sejahtera dan bahagia setiap harinya berkat kebesaran hati dari Raden Mandala. Hingga suatu saat, penampakan aneh muncul dilangit kerajaan Mandala. Terlihat oleh sang raja meteoroid dengan cahaya ungu melaju mengarah ke hutan yang dekat dengan pemukiman warga disekitar pusat kerajaan. Karena hari sudah malam, ia berencana untuk memeriksanya bersama dengan pasukkan keesokan harinya.
+Raden Mandala was the king of the prosperous kingdom of Mandala Raya in Kalimantan. He was a just and beloved ruler who worked tirelessly to ensure the welfare of his people, providing them with jobs, food, healthcare, and education. His subjects revered him for his great deeds, and he was admired throughout the region.
+
+One night, Raden Mandala saw a strange meteoroid in the sky, heading towards a nearby forest where villagers lived. Although he was curious about it, he hesitated to investigate, not wanting to burden his soldiers who were already tired from their day's work. But that night, he had a vision that the meteoroid contained great power that could endanger his people.
+
+The next day, he called upon his bravest soldiers to accompany him to the forest. As they approached the edge of the forest, they were attacked by a group of terrifying ghost monsters that had emerged from the dungeon hidden deep within the forest. The soldiers fought valiantly, but the monsters were too strong, and they were unable to move forward.
+
+Raden Mandala, determined to protect his people, knew he had to act fast. He ordered his soldiers to keep the monsters occupied while he snuck past them and ventured into the dungeon alone.
 
 - Indrayani
 
