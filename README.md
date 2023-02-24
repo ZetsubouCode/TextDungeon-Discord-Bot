@@ -34,7 +34,13 @@ Para pasukan khusus pun melepas tembakan ke mahkluk-mahkluk mengerikan tersebut,
 
 ![Pandung Cora](asset/character/Maling.jpg)
 
-Pencuri handal yang selalu membuat ulah, Padung Cora. Padung telah berhasil mendapatkan berbagai macam artefak unik dari berbagai macam daerah. Artefak-artefak dari harta kekayaan kerajaan zaman dulu yang telah runtuh, seperti kalung uncal dari kerajaan Kutai, kitab sutasuma dari kerajaan Majapahit, serta Lonceng Cakra Donya dari kerajaan Samudra Pasai, yang mana seharusnya menjadi kekayaan nasional. Meskipun begitu, hasrat serakah yang dimiliki padung membuat dia selalu ingin mencari lagi dan lagi. Disaat Padung sedang memilah target yang akan ia curi, tiba-tiba dia mendapatkan kabar dari TV kalau diadakannya sayembara untuk menaklukkan dungeon di Kalimantan. Padung pun merinding dan tersenyum lebar, menatap dengan tajam ke arah layar TV, dia telah memutuskan target selanjutnya.
+Padung Cora was a notorious thief who had made a name for himself across Indonesia for his skillful and audacious heists. From the bustling streets of Jakarta to the remote corners of Papua, Padung had managed to acquire an impressive collection of artifacts that once belonged to ancient kingdoms and powerful rulers.
+
+One of his most impressive scores was the uncal necklace from the Kutai kingdom, the sutasuma book from the Majapahit kingdom, and the Cakra Donya Bell from the Samudra Pasai kingdom. These national treasures were meant to be protected and preserved for future generations, but Padung's insatiable greed had led him to steal them, much to the dismay of the Indonesian people.
+
+Despite the risks involved, Padung always sought out his next big score. It was during one of his scouting missions that he heard about a dungeon-conquering competition in Kalimantan. The mere thought of it sent a shiver down his spine and a wicked smile to his face. He knew he had to enter the competition, not just for the thrill of it but for the chance to claim a new prize.
+
+As he watched the TV screen with an intense gaze, Padung knew that he had found his next target. The competition may have been tough, but Padung was a master of his craft, and he was confident that he could outsmart anyone who dared to stand in his way. For Padung Cora, the world was his playground, and nothing could stop him from getting what he wanted.
 
 # Enemy
 - Kuyang
