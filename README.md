@@ -21,7 +21,13 @@ Di Kalimantan, terdapat suatu kerajaan yang masih berdiri bernama Mandala Raya. 
 
 ![Indrayani](asset/character/Indrayani.jpg)
 
-Di ujung gunung Jaya wijaya, hidup seorang dukun sakti bernama Indrayani. Dia adalah sosok yang bisa berinteraksi dan memanfaatkan kekuatan gaib milik setan. Kegiatan yang sering ia lakukan adalah meramal nasib dari negara Indonesia. Dia mencoba untuk mengetahui apakah akan ada bencana yang akan terjadi, lalu mencoba untuk menghindari keadaan bahaya tersebut.
+Indrayani was a powerful shaman who lived near the peak of Mount Jaya Wijaya. He was known for his ability to communicate with spirits and harness their supernatural powers. Over the years, he had predicted many significant events, both good and bad, for the benefit of his own knowledge and reputation.
+
+One day, while meditating, Indrayani received a vision that a strange object from the sky would crash in the dense forests of Kalimantan. He saw that this object carried immense power that could change the course of history, and he felt a strong urge to be part of it.
+
+As the events unfolded, Indrayani followed the news of the object's landing and the government's stubbornness in dealing with it. He realized that the object was indeed a meteorite and that it contained a unique energy that he could harness to become even more powerful.
+
+Determined to be part of this historic event, Indrayani decided to join the competition to conquer the dungeon. He believed that by reaching the meteorite and absorbing its energy, he could elevate his abilities to new heights and become one of the most powerful shamans in Indonesia.
 - Rastra Sewakotma
 
 ![Rastra Sewakotma](asset/character/Raider.jpg)
