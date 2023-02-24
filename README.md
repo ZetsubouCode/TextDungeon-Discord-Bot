@@ -26,9 +26,13 @@ Di ujung gunung Jaya wijaya, hidup seorang dukun sakti bernama Indrayani. Dia ad
 
 ![Rastra Sewakotma](asset/character/Raider.jpg)
 
-Rastra Sewakotma adalah panglima perang tertinggi yang memimpin pasukan khusus pemerintah, bernama NAYAKALARA. Rahwana diutus oleh pemerintah untuk mengawal ilmuwan BMKG dalam rangka mengawasi kawasan dungeon yang ada di kalimantan. Sesampainya disana, mereka pun tercengang dikarenakan banyak hantu berkeliaran. Tuyul, Wewe Gombel, Buto Ijo, Kuyang, Kunthilanak, semua setan yang mereka tahu ada didepan mata mereka.
-Terlalu takut dengan keadaan tersebut, salah satu pasukan berteriak histeris ketakutan dan menyebabkan para setan tersebut memperhatikan dan terpaku pada kehadiran mereka. Setan-setan tersebut berlari kearah para pakar dan pasukan khusus, dengan tampang menakutkan dan rasa haus darah yang terpancar dari tatapan mereka. 
-Para pasukan khusus pun melepas tembakan ke mahkluk-mahkluk mengerikan tersebut, sambil memberi arahan untuk para pakar agar kabur. Namun senjata api mereka tidak berdaya dihadapan setan-setan itu, walaupun berhasil mengenai mereka, namun dampak yang diberikan seakan tidak membuat mereka kesakitan. Di saat yang bersamaan, para pakar pun sudah berhasil melarikan diri menuju markas besar.
+Rastra Sewakotma was the highest-ranking military commander leading the government's special forces unit called NAYAKALARA. The government sent Rastra and his team to escort BMKG scientists to monitor the dungeon in Kalimantan. Upon arrival, they were stunned by the presence of many ghosts. Tuyul, Wewe Gombel, Buto Ijo, Kuyang, Kunthilanak, all the demons they knew were right in front of them. They were too scared and overwhelmed, and one of Rastra's team members screamed in terror, causing the demons to notice and fixate on their presence.
+
+The demons began running towards the scientists and special forces with their terrifying appearances and bloodthirsty gaze. Rastra and his team opened fire at the demons, giving instructions to the scientists to flee. However, their weapons were useless against the demons. Although they managed to hit them, the impact seemed to have no effect. Meanwhile, the scientists had already managed to escape to the main base.
+
+In terror and guilt, Rastra realized that he needed to inform the government about the terrifying situation they encountered in the dungeon. He ran back to the main base and reported everything he saw. The government refused to believe his story and ordered him to keep quiet about it, citing the potential negative impact on national security.
+
+Haunted by guilt for not being able to save his team members and for being forced to keep silent, Rastra became obsessed with seeking revenge on the demons. He spent months researching and gathering information about the demons and their weaknesses, preparing himself for the day he would face them again. Eventually, he learned about a competition being held to conquer the dungeon, and he saw this as his chance to finally seek redemption for his team members' deaths.
 
 - Pandung Cora
 
