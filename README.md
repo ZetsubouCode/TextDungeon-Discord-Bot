@@ -8,7 +8,7 @@ Selang beberapa hari berlalu, dan benar saja ada benda asing yang jatuh ke tenga
 
 Beberapa minggu berlalu tanpa adanya tindakan, sebuah anomali pun terjadi. Daerah hutan itu berubah secara struktural menyerupai dungeon. Beberapa kali warga yang tinggal didekat daerah tersebut dinyatakan hilang dan tidak pernah kembali. Bahkan ada satu dua warga yang bersaksi bahwa disekitar dungeon tersebut muncul banyak mahkluk halus yang terlihat "nyata" sampai tidak bisa disebut sebagai penampakan hantu.
 
-Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiarkan para pakar untuk melakukan penelitian dan mencari informasi. Setelah mendapat informasi minim serta mengerikan dari para pakar, pemerintah pun memutuskan untuk membuka sayembara "taklukan dungeon", dan jika ada yang berhasil menghancurkan atau mengamankan inti energi dari meteor itu, akan diberikan imbalan besar. Hal ini pun mengundang berbagai macam pihak untuk datang dan mencoba untuk menahlukkan dungeon tersebut.
+Pada titik ini pun pemerintah tidak bisa menutupi masalah, dan akhirnya membiarkan para pakar untuk melakukan penelitian dan mencari informasi. Setelah mendapat informasi minim serta mengerikan dari para pakar, pemerintah pun memutuskan untuk membuka sayembara "taklukan dungeon", dan jika ada yang berhasil menghancurkan atau mengamankan inti energi dari meteorit itu, akan diberikan imbalan besar. Hal ini pun mengundang berbagai macam pihak untuk datang dan mencoba untuk menahlukkan dungeon tersebut.
 
 # Character
 - Raden Mandala
@@ -71,5 +71,12 @@ Merupakan setan berbentuk seperti boneka dengan ciri-ciri berkulit gelap dengan 
 - Rangda (**boss**)
 - Nyi Roro Kidul (**boss**)
 
+# Gameplay
+It's just turn based game, inspired by slay the spire, but without cards. You will be given 4 option of character with their unique weapons and abilities. Kill ghosts in your journey and beat the dungeon.
+Mainly you will interacting with embedding message, using provided reactions.
 
+# Features
 
+# Technical
+
+# Advice
