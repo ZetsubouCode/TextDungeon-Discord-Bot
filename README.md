@@ -38,11 +38,23 @@ Pencuri handal yang selalu membuat ulah, Padung Cora. Padung telah berhasil mend
 
 # Enemy
 - Kuyang
+Merupakan setan berwujud kepala manusia dengan isi tubuh yang menempel tanpa kulit dan anggota badan yang dapat terbang untuk mencari darah bayi atau darah wanita setelah melahirkan. Makhluk ini dikenal masyarakat di Kalimantan. Kuyang diceritakan sebagai manusia (wanita) yang menuntut ajaran ilmu hitam untuk mencapai kehidupan abadi.
+
 - Sundel Bolong
+Merupakan setan berwujud wanita cantik berambut panjang dan bergaun panjang warna putih yang bolong ("berlubang tembus") di bagian punggung yang sedikit tertutup rambut panjangnya sehingga organ-organ tubuh bagian perut terlihat.
+
 - Tuyul
+Merupakan setan berwujud orang kerdil atau anak kecil dengan kepala gundul, yang dipercaya dapat mencuri uang untuk tuannya.
+
 - Wewe Gombel
+Merupakan setan yang suka menculik anak-anak yang ditelantarkan dan diabaikan oleh orang tuanya, tetapi tidak mencelakainya.
+
 - Leak
+Merupakan setan yang bisa menggunakan ilmu untuk berubah menjadi Rangda,Bade (tempat mayat/tulang manusia saat ngaben),Page (kranda dari ulatan bambu kadang beserta petinya), atau Binatang yang digunakan untuk tameng badan ataupun untuk menyerang musuh-musuh
+
 - Jenglot
+Merupakan setan berbentuk seperti boneka dengan ciri-ciri berkulit gelap dengan tekstur kasar (seperti mumi), berwajah seperti tengkorak dan bertaring mencuat serta memiliki rambut dan kuku yang panjang.
+
 - Babi Ngepet
 - Kuntilanak
 - Jeruk Purut
