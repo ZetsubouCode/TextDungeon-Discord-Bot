@@ -13,7 +13,7 @@ Eventually, the situation became too dire to ignore, and the government finally 
 # Character
 - Raden Mandala
 
-![Raden Mandala](asset/character/Raden%20Mandala.jpg)
+![Raden Mandala](asset/character/RadenMandala.png)
 
 Raden Mandala was the king of the prosperous kingdom of Mandala Raya in Kalimantan. He was a just and beloved ruler who worked tirelessly to ensure the welfare of his people, providing them with jobs, food, healthcare, and education. His subjects revered him for his great deeds, and he was admired throughout the region.
 
@@ -25,7 +25,7 @@ Raden Mandala, determined to protect his people, knew he had to act fast. He ord
 
 - Indrayani
 
-![Indrayani](asset/character/Indrayani.jpg)
+![Indrayani](asset/character/Indrayani.png)
 
 Indrayani was a powerful shaman who lived near the peak of Mount Jaya Wijaya. He was known for his ability to communicate with spirits and harness their supernatural powers. Over the years, he had predicted many significant events, both good and bad, for the benefit of his own knowledge and reputation.
 
@@ -36,7 +36,7 @@ As the events unfolded, Indrayani followed the news of the object's landing and 
 Determined to be part of this historic event, Indrayani decided to join the competition to conquer the dungeon. He believed that by reaching the meteorite and absorbing its energy, he could elevate his abilities to new heights and become one of the most powerful shamans in Indonesia.
 - Rastra Sewakotma
 
-![Rastra Sewakotma](asset/character/Raider.jpg)
+![Rastra Sewakotma](asset/character/RastraSewakotma.png)
 
 Rastra Sewakotma was the highest-ranking military commander leading the government's special forces unit called NAYAKALARA. The government sent Rastra and his team to escort BMKG scientists to monitor the dungeon in Kalimantan. Upon arrival, they were stunned by the presence of many ghosts. Tuyul, Wewe Gombel, Buto Ijo, Kuyang, Kunthilanak, all the demons they knew were right in front of them. They were too scared and overwhelmed, and one of Rastra's team members screamed in terror, causing the demons to notice and fixate on their presence.
 
@@ -48,7 +48,7 @@ Haunted by guilt for not being able to save his team members and for being force
 
 - Pandung Cora
 
-![Pandung Cora](asset/character/Maling.jpg)
+![Pandung Cora](asset/character/PandungCora.png)
 
 Padung Cora was a notorious thief who had made a name for himself across Indonesia for his skillful and audacious heists. From the bustling streets of Jakarta to the remote corners of Papua, Padung had managed to acquire an impressive collection of artifacts that once belonged to ancient kingdoms and powerful rulers.
 
