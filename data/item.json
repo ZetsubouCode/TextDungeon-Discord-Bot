@@ -1,0 +1,95 @@
+{
+    "weapon":{
+        
+        "keris":{
+            "name": "keris",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "jalangkung":{
+            "name": "Jalangkung",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "baton":{
+            "name": "Baton",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "ballistic_shield":{
+            "name": "Ballistic shield",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "dagger_of_cruelity":{
+            "name": "Dagger of cruelity",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "dagger_of_despair":{
+            "name": "Dagger of despair",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        },
+        "smoke_bomb":{
+            "name": "Smoke Bomb",
+            "description":"",
+            "damage":10,
+            "chance":0.25,
+            "effect":{
+                "bleed":{
+                    "duration":1,
+                    "amount":2
+                }
+            }
+        }
+    },
+    "potion":{
+
+    },
+    "key":{
+
+    }
+}

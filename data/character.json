@@ -1,0 +1,30 @@
+{
+    "raden_mandala":{
+        "name":"Raden Mandala",
+        "hp":120,
+        "mp":100,
+        "defend":15,
+        "eva":10
+    },
+    "indrayani":{
+        "name":"Indrayani",
+        "hp":100,
+        "mp":150,
+        "defend":10,
+        "eva":5
+    },
+    "rastra_sewakotma":{
+        "name":"Rastra Sewakotma",
+        "hp":150,
+        "mp":0,
+        "defend":30,
+        "eva":0
+    },
+    "pandung_cora":{
+        "name":"Pandung Cora",
+        "hp":100,
+        "mp":0,
+        "defend":5,
+        "eva":30
+    }
+}
